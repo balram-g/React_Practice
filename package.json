@@ -1,7 +1,7 @@
 {
-  "name": "balrams-test-sandbox",
+  "name": "assignment-react",
   "version": "1.0.0",
-  "description": "Balram's Test Sandbox for practicing the React .",
+  "description": "codesandbox for React  Assignment.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
